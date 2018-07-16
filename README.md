@@ -8,5 +8,5 @@
 
 ### Videos
 V-REP ROS Simulation Superior Control of Six axis Robot
-- https://youtu.be/-PEaYGqE5k8
-- https://youtu.be/6j692nKElVM
+- https://youtu.be/RInASrjudV8 
+- https://youtu.be/GPxMXTTwszI
