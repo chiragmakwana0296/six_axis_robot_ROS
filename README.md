@@ -7,11 +7,7 @@
 - Microcontroller Used : Arduino For Joint State Controller.
 
 ### Videos
-V-REP ROS Simulation Superior Control of Six axis Robot
 - https://youtu.be/RInASrjudV8 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPxMXTTwszI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 - https://youtu.be/GPxMXTTwszI
 
 
