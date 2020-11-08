@@ -6,8 +6,7 @@
 - V-REP (Vertual Robot Experimentation Platform) For robot simulation.
 - Microcontroller Used : Arduino For Joint State Controller.
 
-### Videos
+### Videos ####
 - https://youtu.be/RInASrjudV8 
 - https://youtu.be/GPxMXTTwszI
-
 
