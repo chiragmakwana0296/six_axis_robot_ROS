@@ -1,0 +1,3 @@
+<launch>
+    <node name="robotic_arm_interfce_node" pkg="robotic_arm_interface" type="robotic_arm_interfce_node"/>
+</launch>
