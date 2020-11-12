@@ -1,3 +1,4 @@
+![Docker Image CI](https://github.com/chiragmakwana0296/six_axis_robot_ROS/workflows/Docker%20Image%20CI/badge.svg?event=deployment)
 # six-axis-robot-application-framework-based-on-ROS-Kinetic 
 
 - This was my Final Year Project 
