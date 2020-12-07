@@ -21,11 +21,10 @@ services:
       - "./src:/root/catkin_ws/src:rw"
     ports:
       - "11311:11311"
-      - "19997:19997"
     devices:
      - /dev/ttyACM0:/dev/ttyACM0
      - /dev/input/js0
-    command: 
+    command: bash
 
   ######################################################################################
   ## Container for ROS-Install Workspace
@@ -50,7 +49,6 @@ services:
       - "./src:/root/catkin_ws/src:rw"
     ports:
       - "11311:11311"
-      - "19997:19997"
     devices:
       - /dev/ttyACM0:/dev/ttyACM0
       - /dev/input/js0
